@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{3441C83E-C5F5-4D32-B0C7-D02A4572F64E}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.26F7F731-98D0-4E55-B201-4DF133E3854D">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MyApp.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyApp/MyAppFirstPage.cs">
+    <Files>
+      <File FileName="MyApp/MyAppFirstPage.cs" Line="15" Column="58" />
+      <File FileName="MyApp/IDailer.cs" Line="6" Column="29" />
+      <File FileName="Droid/PhoneDailer.cs" Line="10" Column="1" />
+      <File FileName="iOS/PhoneDialer.cs" Line="20" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyApp.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
